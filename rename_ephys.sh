@@ -22,44 +22,41 @@ do
     for i_cell in $cells
     do
 
-        file=`ls ${sub_folder}/*.smr | grep ${i_cell}1.smr`
+        file=`ls ${sub_folder}/*.smr | grep ${i_cell}.smr`
 
-    if [ -z "$file" ]
-    then
-        echo "no file: ${i_subject}*${i_cell}1.smr"
-        break
+        if [ -z "$file" ]
+        then
+            echo "no file: ${i_subject}*${i_cell}.smr"
 
-    else
-        echo " Processing cell ${i_cell}"
+        else
+            echo " Processing cell ${i_cell}"
 
-        for i_run in $runs
-        do
+            for i_run in $runs
+            do
 
-         
-            smr_file=`ls ${sub_folder}/*.smr | grep ${i_cell}${i_run}`   
-            
-            if [ -z "$smr_file" ]
-            then
-                echo "no file: ${i_subject}*${i_cell}${i_run}.smr"
-                break
+                smr_file=`ls ${sub_folder}/*.smr | grep ${i_cell}${i_run}.smr`   
+                
+                if [ -z "$smr_file" ]
+                then
+                    echo "no file: ${i_subject}*${i_cell}${i_run}.smr"
 
-            else
-                echo "  processing run ${i_run}"
+                else
+                    echo "  processing run ${i_run}"
 
-                target_name=sub-${i_subject}_sample-${i_cell}_run-${i_run}_ephys.smr
-                echo $smr_file "-->" $sub_folder/$target_name
-                mv -v $smr_file $sub_folder/${target_name}
+                    target_name=sub-${i_subject}_sample-${i_cell}_run-${i_run}_ephys.smr
+                    echo $smr_file "-->" $sub_folder/$target_name
+                    mv -v $smr_file $sub_folder/${target_name}
 
-                S2R_file=`echo $smr_file | sed s@smr@S2R@g`
-                target_name=`echo $target_name | sed s@smr@S2R@g`
-                echo $S2R_file "-->" $sub_folder/$target_name
-                mv -v $S2R_file $sub_folder/${target_name}
+                    S2R_file=`echo $smr_file | sed s@smr@S2R@g`
+                    target_name=`echo $target_name | sed s@smr@S2R@g`
+                    echo $S2R_file "-->" $sub_folder/$target_name
+                    mv -v $S2R_file $sub_folder/${target_name}
 
-            fi
+                fi
 
-        done        
+            done        
 
-    fi   
+        fi   
 
     done
 
