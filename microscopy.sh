@@ -85,5 +85,6 @@ do
 
 done
 
+# remove all empty folders
 find $source_folder -type d -empty -delete
 
