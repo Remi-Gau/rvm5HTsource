@@ -22,11 +22,11 @@ do
     for i_cell in $cells
     do
 
-        file=`ls ${sub_folder}/*.smr | grep ${i_cell}.smr`
+        file=`ls ${sub_folder}/*.smr | grep ${i_cell}*.smr`
 
         if [ -z "$file" ]
         then
-            echo "no file: ${i_subject}*${i_cell}.smr"
+            echo "no file: ${i_subject}*${i_cell}*.smr"
 
         else
             echo " Processing cell ${i_cell}"
