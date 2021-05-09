@@ -9,8 +9,8 @@ clean_previous_run=true
 # otherwise it will do a dry run create dummy files with "touch"
 copy_files=true
 
-source_folder=`pwd`/source
-target_folder=`pwd`/source
+source_folder=`pwd`
+target_folder=`pwd`
 
 subjects=`seq 110 308`
 
