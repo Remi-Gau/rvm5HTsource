@@ -1,0 +1,53 @@
+Date,2009/02/25,,"Rat #",221,"Reçu le ",2009/02/17,,,,
+,,,,,"Poids approx","300 g",,,,
+"Induction à",10H15,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 77",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Bregma)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+11H25,"5.0 mm",,"0.9 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 14 MΩ ; Ri =  MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,RAS,,,,,,
+,,,,,,,,,,RAS
+13H40,"4.6 mm",,"0.9 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 12 MΩ ; Ri = 20 MΩ",,,,,,"Perfusion @ 17H45"
+,,,,,,,,,,
+,,,,"Cellule A à 9750 µm",,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Fréquence spontanée = 1.5 Hz",,,,,,"Re = ; Ri = MΩ"
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FR) light",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"Noci thermique : ON (50:RL/FL/RR)",,,,,,
+,,,,"Noci thermique : ON (52:RR) ON (48:RR)",,,,,,"Injection à nA pendant min"
+,,,,"Noci thermique : Neutral (46:RR)",,,,,,"Fin injection à "
+,,,,"Tactile : Neutral (FR)",,,,,,
+,,,,"Perdue @ injection",,,,,,"Cellule à µm"
+,,,,,,,,,,"Fréquence spontanée =  Hz"
+,,,,"Point bleu @ 9740 µm pdt 45 min",,,,,,Réponse
+,,,,,,,,,,"Noci mécanique : "
+15H50,"4.6 mm",,"0.9 mm (D)","* 1,5% neurobiotine ; 5% NaCl",,,,,,"Noci thermique : "
+,,,,"Re = 12 MΩ ; Ri = 25 MΩ",,,,,,"Tactile : "
+,,,,,,,,,,
+,,,,RAS,,,,,,
+,,,,,,,,,,
+16H20,"5.2 mm",,"1.0 mm (D)","* 1,5% neurobiotine ; 5% NaCl",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Re = 12 MΩ ; Ri = 25 MΩ",,,,,,Collision
+,,,,,,,,,,
+,,,,"Cellule B à 8660 µm",,,,,,
+,,,,"Fréquence spontanée = 30 Hz",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FR) light",,,,,,
+,,,,"Noci thermique : ON (50:RL) light",,,,,,
+,,,,,,,,,,
+,,,,"Cellule C à 9000 µm",,,,,,
+,,,,"Fréquence spontanée = 10 Hz",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : OFF (FR) postdécharge",,,,,,
+,,,,"Noci thermique : OFF (50:RL) postdécharge",,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,"Cerveau prélevé et mis à postfixé",,,,,,

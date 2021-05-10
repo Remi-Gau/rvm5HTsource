@@ -1,0 +1,53 @@
+Date,2009/06/05,,"Rat #",250,"Reçu le ",?/05/2009,,,,
+,,,,,"Poids approx","400 G",,,,
+"Induction à",11H50,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 100 + ctrl positif",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+12H20,"0.0 mm",,"0.8 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 14 MΩ ; Ri = 18-20 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"plusieurs cellules trop rapides",,,,,,
+,,,,,,,,,,RAS
+,,,,"Cellule A à 4735 µm",,,,,,
+,,,,"Fréq spont = 1.5 Hz ; ISI = 667 ± 136 ms",,,,,,"Perfusion @ 17H45"
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FL)",,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Noci thermique : ON (50:FR/FL/RR/RL;48/52:FR)",,,,,,"Re = ; Ri = MΩ"
+,,,,"Noci thermique : Neutral (46:FL)",,,,,,
+,,,,"Injection à 2-5 nA pendant 4 min",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"Fin injection à 14H45",,,,,,
+,,,,"Proba de décharge augmentée pdt injection courant",,,,,,"Injection à nA pendant min"
+,,,,,,,,,,"Fin injection à "
+,,,,"Cellule B à 4850 µm",,,,,,
+,,,,"Fréq spont = 0.19 Hz ; ISI = 5182 ± 3245 ms",,,,,,"Cellule à µm"
+,,,,Réponse,,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,"Noci mécanique : ",,,,,,Réponse
+,,,,"Noci thermique : ",,,,,,"Noci mécanique : "
+,,,,"Injection à 3 nA pendant ≈ 2 min",,,,,,"Noci thermique : "
+,,,,"Fin injection à 15h15",,,,,,"Tactile : "
+,,,,"Cellule percée ? Mais il y encore une cellule lente après ",,,,,,
+,,,,"fin injection (voir fichier B3) : ",,,,,,"Point Bleu @ 4380 µm"
+,,,,"est ce que la bonne cellule a été injectée ?",,,,,,
+,,,,,,,,,,Antidromique:elec:;lat:ms;seuil:µA
+15H40,"0.0 mm",,"-0.4 mm","Cellule C à µm",,,,,,Collision
+,,,,"Fréq spont = 8.28 Hz ; ISI = 121 ± 31 ms",,,,,,
+,,,,,,,,,,
+16H10,"0.2 mm",,"-0.4 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 9 MΩ ; Ri = 20 MΩ",,,,,,
+,,,,,,,,,,
+,,,,"plusieurs cellules trop rapides",,,,,,
+,,,,,,,,,,
+16H45,"-0.2 mm",,"-0.4 mm","Cellule D à 3950 µm",,,,,,
+,,,,"Fréq spont = 3.21 Hz ; ISI = 305 ± 577 ms",,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,"injection point de neurobiotine @ 1500 µm",,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 17H45",,,,,,

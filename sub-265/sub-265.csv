@@ -1,0 +1,42 @@
+Date,2009/09/17,,"Rat #",265,"Reçu le ",2009/09/08,,,,
+,,,,,"Poids approx","300 G",,,,
+"Induction à",12H00,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 109",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+12H55,"0.0 mm",,"0.8 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 10 MΩ ; Ri = 22 MΩ",,,,,,"Perdue @ injection"
+,,,,RAS,,,,,,"Perdue AV injection"
+,,,,,,,,,,
+14H15,"0.0 mm",,"-0.8 mm","Cellule A à 4270 µm",,,,,,RAS
+,,,,"Fréq spont = 1.9 Hz ; ISI = 526 ± 130 ms",,,,,,
+,,,,Réponse,,,,,,"Perfusion @ 17H45"
+,,,,"Noci mécanique : Neutral (RL)",,,,,,
+,,,,"Noci thermique : Neutral (50:ttCR;52:RL)",,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Injection à 3-4 nA pendant 1 min",,,,,,"Re = ; Ri = MΩ"
+,,,,"Fin injection à 14H50",,,,,,
+,,,,,,,,,,"* 5% TMR ; 5-10% NaCl"
+15H15,"0.2 mm",,"0.8 mm","Cellule B à 4270 µm",,,,,,
+,,,,"Fréq spont = 2.14 Hz ; ISI = 467 ± 226 ms",,,,,,"Injection à 3-4 nA pendant 1 min"
+,,,,Réponse,,,,,,"Fin injection à "
+,,,,"Noci mécanique : ON (FR)",,,,,,
+,,,,"Noci thermique : ON (50:ttCR;48->52:RL) Neutral (FR:46)",,,,,,"Cellule à µm"
+,,,,"Perdue @ injection",,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,,,,,,,Réponse
+17H00,"-0.2 mm",,"0.8 mm","Cellule C à 4580 µm",,,,,,"Noci mécanique : "
+,,,,"Fréq spont = 0.99 Hz ; ISI = 1004 ± 1085 ms",,,,,,"Noci thermique : "
+,,,,Réponse,,,,,,"Tactile : "
+,,,,"Noci thermique : OFF (50:RL/FL/RR)",,,,,,
+,,,,,,,,,,"Point Bleu @ 4380 µm"
+17H45,"0.2 mm",,"0.3 mm",RAS,,,,,,
+,,,,,,,,,,Antidromique:elec:;lat:ms;seuil:µA
+18H10,"-0.2 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,Collision
+,,,,"Re = 10 MΩ ; Ri = 22 MΩ",,,,,,
+,,,,RAS,,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 18H45",,,,,,

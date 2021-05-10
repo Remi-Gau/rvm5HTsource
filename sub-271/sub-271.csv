@@ -1,0 +1,64 @@
+Date,2009/10/07,,"Rat #",271,"Reçu le ",2009/10/06,,,,
+,,,,,"Poids approx",300,,,,
+"Induction à",10H30,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 113",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+11H10,"0.0 mm",,"0.8 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 13 MΩ ; Ri = 13 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 4480 µm",,,,,,
+,,,,"Fréq spont = 3-4 Hz",,,,,,RAS
+,,,,,,,,,,
+12H00,"0.0 mm",,"0.3 mm",RAS,,,,,,"Perfusion @ 17H45"
+,,,,,,,,,,
+11H25,"0.0 mm",,"-0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Re = 12 MΩ ; Ri = 12 MΩ",,,,,,"Re = ; Ri = MΩ"
+,,,,"Cellule B à 4130 µm",,,,,,
+,,,,"Fréq spont = 1.98 Hz ; ISI = 504 ± 118 ms",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : on (FL)",,,,,,"Injection à nA pendant min"
+,,,,"Noci thermique : on (tt CR:50;FL:52) Neutral (FL:46/48)",,,,,,"Fin injection à "
+,,,,"Perdue @ injection",,,,,,
+,,,,,,,,,,"Cellule à µm"
+,,,,"Point Bleu @ 4130 µm",,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,"pdt 1 heure 20 min",,,,,,Réponse
+,,,,,,,,,,"Noci mécanique : "
+15H10,"0.2 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,"Noci thermique : "
+,,,,"Re = 15 MΩ ; Ri = 17 MΩ",,,,,,"Tactile : "
+,,,,RAS,,,,,,
+,,,,,,,,,,"Point Bleu @ 4380 µm"
+15H40,"0.4 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 12 MΩ ; Ri = 17 MΩ",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,,,,,,,Collision
+,,,,RAS,,,,,,
+,,,,,,,,,,
+16H30,"-0.2 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 12 MΩ ; Ri = 17 MΩ",,,,,,
+,,,,RAS,,,,,,
+,,,,,,,,,,
+17H10,"0.0 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 16 MΩ ; Ri = 17 MΩ",,,,,,
+,,,,"Cellule C à 4130 µm",,,,,,
+,,,,"Fréq spont = 1.38 Hz ; ISI = 727 ± 147 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci thermique : Neutral (RL:50)",,,,,,
+,,,,,,,,,,
+17H50,"0.1 mm",,"0.3 mm",RAS,,,,,,
+,,,,,,,,,,
+17H10,"0.1 mm",,"0.8 mm","Cellule D à 4925 µm",,,,,,
+,,,,"Fréq spont = 2.99 Hz ; ISI = 334 ±134 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FR)",,,,,,
+,,,,"Noci thermique : ON (tt CR:50;FR:48->52) Neutral (FR:46)",,,,,,
+,,,,"Injection à 2-4 nA pendant 3 min 40 sec",,,,,,
+,,,,"Fin injection à 18H55",,,,,,
+,,,,"une première cellule injectée puis la deuxième (celle",,,,,,
+,,,,"d'intérêt) injectée ensuite pendant 10 sec ?",,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 19H15",,,,,,

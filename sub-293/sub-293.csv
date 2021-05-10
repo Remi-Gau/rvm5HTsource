@@ -1,0 +1,51 @@
+Date,2009/12/01,,"Rat #",293,"Reçu le ",2009/12/01,,,,
+,,,,,"Poids approx",280,,,,
+"Induction à",11H30,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 128",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+12H05,"0.0 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 22 MΩ ; Ri = 22 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 4780 µm",,,,,,
+,,,,"Fréq spont = 2.17 Hz ; ISI = 461 ± 226 ms",,,,,,RAS
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (RL)",,,,,,"Perfusion @ 17H45"
+,,,,"Noci thermique : ON",,,,,,
+,,,,"Tactile : Neutral",,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Perdue @ injection",,,,,,"Re = ; Ri = MΩ"
+,,,,,,,,,,
+,,,,"Cellule B à 5020 µm",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"Fréq spont = 0.83 Hz ; ISI = 1202 ± 286 ms",,,,,,
+,,,,Réponse,,,,,,"Injection à nA pendant min"
+,,,,"Noci mécanique : Neutral (RL)",,,,,,"Fin injection à "
+,,,,"Noci thermique : Neutral",,,,,,
+,,,,"Tactile : Neutral",,,,,,"Cellule à µm"
+,,,,"Perdue @ injection",,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,,,,,,,Réponse
+,,,,"Cellule C à 5000 µm",,,,,,"Noci mécanique : "
+,,,,"Fréq spont = 2.63 Hz ; ISI = 379 ± 208 ms",,,,,,"Noci thermique : "
+,,,,Réponse,,,,,,"Tactile : "
+,,,,"Noci mécanique : ON (FL)",,,,,,
+,,,,"Noci thermique : ON ",,,,,,"Point Bleu @ 4380 µm"
+,,,,"Tactile : Neutral",,,,,,
+,,,,"Injection à 4 nA pendant 2 min 20 sec",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Fin injection à 16H05",,,,,,Collision
+,,,,,,,,,,
+16H15,"0.0 mm",,"-0.3 mm",RAS,,,,,,
+,,,,,,,,,,
+17H20,"0.2 mm",,"-0.3 mm","Cellule D à 5020 µm",,,,,,
+,,,,"Fréq spont = 1.02 Hz ; ISI = 975 ± 217 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : Neutral (FR)",,,,,,
+,,,,"Noci thermique : Neutral",,,,,,
+,,,,"Tactile : Neutral (FR)",,,,,,
+,,,,"Injection à 3-4 nA pendant 3 min 30 sec",,,,,,
+,,,,"Fin injection à 18H10",,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 18H30",,,,,,

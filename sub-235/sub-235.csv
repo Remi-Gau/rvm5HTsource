@@ -1,0 +1,56 @@
+Date,2009/05/11,,"Rat #",235,"Reçu le ",2009/04/28,,,,
+,,,,,"Poids approx","400 g",,,,
+"Induction à",12H00,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)"," ",,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 86",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+13H00,"0.0 mm",,"0.9 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 10 MΩ ; Ri = 8 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule à 4000 µm",,,,,,
+,,,,"Fréq spont = 15 Hz",,,,,,RAS
+,,,,,,,,,,
+14H25,"0.0 mm",,"0.5 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,"Perfusion @ 17H45"
+,,,,"Re = 15 ; Ri = 8 MΩ",,,,,,
+,,,,RAS,,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,,,,,,,"Re = ; Ri = MΩ"
+15H45,"0.0 mm",,"-0.8 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 12 ; Ri = ? MΩ",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,,,,,,,
+,,,,"Cellule B à 4670 µm",,,,,,"Injection à nA pendant min"
+,,,,,,,,,,"Fin injection à "
+16H20,"0.2 mm",,"-0.8 mm",RAS,,,,,,
+,,,,,,,,,,"Cellule à µm"
+16H35,"0.2 mm",,"1.00 mm",RAS,,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,,,,,,,Réponse
+16H55,"-0.2 mm",,"1.00 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,"Noci mécanique : "
+,,,,"Re = 12 ; Ri = 25 MΩ",,,,,,"Noci thermique : "
+,,,,,,,,,,"Tactile : "
+,,,,"Cellule C à 4460 µm",,,,,,
+,,,,"Fréq spont =  8.46 Hz ; ISI = 118 ± 87 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (RL)",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Noci thermique : ON (50:RR/RL/FR/FL;48:RL;52:RL)",,,,,,Collision
+,,,,"Noci thermique : Neutral (46:RL)",,,,,,
+,,,,"Injection à 3 nA pendant 5 min 30 sec",,,,,,
+,,,,"Fin injection à 17H40",,,,,,
+,,,,,,,,,,
+18H00,"-0.2 mm",,"-0.8 mm","Cellule D à 4900 µm",,,,,,
+,,,,"Fréq spont = 17.61 Hz ; ISI = 57 ± 37 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci thermique : OFF (50:RR/RL/FR/FL)",,,,,,
+,,,,,,,,,,
+,,,,"Cellule E à 5070 µm",,,,,,
+,,,,"Fréq spont = 36.45 Hz ; ISI = 27 ± 10 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci thermique : ON (50:RR/RL/FR/FL)",,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,"Point Bleu @ 5070 µm",,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 19H00",,,,,,

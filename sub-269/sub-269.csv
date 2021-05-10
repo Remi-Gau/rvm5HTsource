@@ -1,0 +1,46 @@
+Date,2009/09/24,,"Rat #",269,"Reçu le ",2009/09/17,,,,
+,,,,,"Poids approx","300 G",,,,
+"Induction à",13H00,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 111",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+15H20,"0.0 mm",,"0.8 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 11 MΩ ; Ri = 15 MΩ",,,,,,"Perdue @ injection"
+,,,,RAS,,,,,,"Perdue AV injection"
+,,,,,,,,,,
+15H55,"-0.2 mm",,"0.8 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,RAS
+,,,,"Re = 11 MΩ ; Ri = 15 MΩ",,,,,,
+,,,,RAS,,,,,,"Perfusion @ 17H45"
+,,,,,,,,,,
+15H55,"-0.6 mm",,"0.8 mm",RAS,,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,,,,,,,"Re = ; Ri = MΩ"
+17H40,"-0.2 mm",,"-0.8 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 11 MΩ ; Ri = 15 MΩ",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,,,,,,,
+,,,,"Cellule A à  µm",,,,,,"Injection à 3-4 nA pendant 1 min"
+,,,,,,,,,,"Fin injection à "
+,,,,"Cellule B à 4820 µm",,,,,,
+,,,,"Fréq spont = 1.79 Hz ; ISI = 558 ± 137 ms",,,,,,"Cellule à µm"
+,,,,Réponse,,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,"Noci mécanique : ON light (FL)",,,,,,Réponse
+,,,,"Noci thermique : ON light (FL:50;48-52:FL) Neutral (50:FR/RR/RL)",,,,,,"Noci mécanique : "
+,,,,"Perdue @ injection",,,,,,"Noci thermique : "
+,,,,,,,,,,"Tactile : "
+,,,,"Cellule C à 4830 µm",,,,,,
+,,,,"Fréq spont = 1.93 Hz ; ISI = 519 ± 182 ms",,,,,,"Point Bleu @ 4380 µm"
+,,,,Réponse,,,,,,
+,,,,"Noci thermique : OFF  (FL/RL/RR:50)",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,,,,,,,Collision
+,,,,"Cellule D à 4850 µm",,,,,,
+,,,,"Fréq spont = 0.3 Hz ; ISI = 3210 ± 2263 ms ",,,,,,"Noci mécanique : ON"
+,,,,Réponse,,,,,,"Noci thermique : ON (tt CR:50;48-52:)"
+,,,,"Noci thermique : ON light  (FR)",,,,,,
+,,,,"Noci mécanique : ON light (FR:48->52;tt CR:50) Neutral (FR:46)",,,,,,
+,,,,"décharge spontanée variable au cours de l'enregistrement",,,,,,
+,,,,,,,,,,
+,,,,"Point Bleu @ 4830 µm",,,,,,

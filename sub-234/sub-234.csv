@@ -1,0 +1,79 @@
+Date,2009/04/30,,"Rat #",234,"Reçu le ",2009/04/28,,,,
+,,,,,"Poids approx","300 g",,,,
+"Induction à",11H45,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,1750
+"Post induction : atropine (0,75 mg/kg ; IP)"," ",,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 85",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+12H30,"-0.2 mm",,"1.0 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 8-18 MΩ ; Ri = 15-20 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"RAS : quelques cellules peu stables",,,,,,
+,,,,,,,,,,RAS
+13H30,"-0.2 mm",,"0.5 mm",RAS,,,,,,
+,,,,,,,,,,"Perfusion @ 17H45"
+15H05,"0.0 mm",,"1.0 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 5-12 MΩ ; Ri = 10-15 MΩ",,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,,,,,,,"Re = ; Ri = MΩ"
+,,,,RAS,,,,,,
+,,,,,,,,,,"* 5% TMR ; 5-10% NaCl"
+15H44,"0.0 mm",,"0.5 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 7-12 MΩ ; Ri = 10-15 MΩ",,,,,,"Injection à nA pendant min"
+,,,,,,,,,,"Fin injection à "
+,,,,"Cellule A à 4592 µm",,,,,,
+,,,,"Fréq spont = 22.7 Hz ; ISI = 22 ± 14 ms",,,,,,"Cellule à µm"
+,,,,Réponse,,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,"Noci mécanique : ON (RL)",,,,,,Réponse
+,,,,"Noci thermique : ON (50:FL/FR/RR/RL)",,,,,,"Noci mécanique : "
+,,,,,,,,,,"Noci thermique : "
+,,,,,,,,,,"Tactile : "
+16H40,"0.0 mm",,"1.0 mm (D)","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 6-12 MΩ ; Ri = 10-15 MΩ",,,,,,
+,,,,,,,,,,
+,,,,,,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Cellule B à 4500 µm",,,,,,Collision
+,,,,"Fréq spont = 24.3 Hz ; ISI = 36 ± 14 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FL)",,,,,,
+,,,,"Noci thermique : ON (50:FL/FR/RR/RL;52:FL",,,,,,
+,,,,"Noci thermique : ON (46:FL;48:FL) Neutral (44:FL)",,,,,,
+,,,,,,,,,,
+,,,,"Cellule C à 4740 µm",,,,,,
+,,,,"Fréq spont = 0 Hz",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ?",,,,,,
+,,,,"Noci thermique : ?",,,,,,
+,,,,"Injection à 2-5 nA pendant 1 min 20 s",,,,,,
+,,,,"Fin injection à 17H40",,,,,,
+,,,,,,,,,,
+,,,,"Cellule D à 4845 µm",,,,,,
+,,,,"Fréq spont = 0 Hz",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ?",,,,,,
+,,,,"Noci thermique : ?",,,,,,
+,,,,,,,,,,
+18H20,"0.0 mm",,"0.5 mm (D)","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 8-15 MΩ ; Ri = 10-15 MΩ",,,,,,
+,,,,,,,,,,
+,,,,"Cellule E à 3800 µm",,,,,,
+,,,,"Fréq spont = 0 Hz",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FR) very light",,,,,,
+,,,,"Noci thermique : ON (50:FR/FLRR/RL;52/FR;44:FR)",,,,,,
+,,,,"Noci thermique : Neutral (42:FR)",,,,,,
+,,,,,,,,,,
+,,,,"Cellule F à 4200 µm",,,,,,
+,,,,"Fréq spont = 33.3 Hz ; ISI = 30 ± 25 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FR)",,,,,,
+,,,,"Noci thermique : ON (50:FR/FLRR/RL;44:FR)",,,,,,
+,,,,"Injection à 12-15 nA pendant 30 s",,,,,,
+,,,,"Fin injection à 19H20",,,,,,
+,,,,,,,,,,
+,,,,"point bleu @ 4200",,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 20H30",,,,,,

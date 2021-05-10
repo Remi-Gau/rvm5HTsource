@@ -1,0 +1,54 @@
+Date,2009/10/24,,"Rat #",279,"Reçu le ",2009/10/20,,,,
+,,,,,"Poids approx",300,,,,
+"Induction à",12H20,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 120",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+12H50,"0.0 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 13 MΩ ; Ri = 19 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 3920 µm",,,,,,
+,,,,"Fréq spont = 6 Hz",,,,,,RAS
+,,,,,,,,,,
+,,,,"Cellule B à ≈ 4400 µm",,,,,,"Perfusion @ 17H45"
+,,,,"Fréq spont = 1.62 Hz ; ISI = 619 ± 268 ms",,,,,,
+,,,,Réponse,,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Noci mécanique : ON(RL)",,,,,,"Re = ; Ri = MΩ"
+,,,,"Noci thermique : ON(tt CR:50;RL:50-52) Neutral(44-48:RL)",,,,,,
+,,,,"Injection à 1-2 nA pendant 11 min",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"Fin injection à 13H45",,,,,,
+,,,,,,,,,,"Injection à nA pendant min"
+15H00,"0.0 mm",,"-0.3 mm","Cellule C à 4670  µm",,,,,,"Fin injection à "
+,,,,"Fréq spont = 1.59 Hz ; ISI = 630 ± 326 ms",,,,,,
+,,,,Réponse,,,,,,"Cellule à µm"
+,,,,"Noci mécanique : ON( RR)",,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,"Noci thermique : ON(tt CR:50;RR:50-52) Neutral(44-48:RR)",,,,,,Réponse
+,,,,"Injection à 3-4 nA pendant 1 min 45 sec",,,,,,"Noci mécanique : "
+,,,,"Fin injection à 16H05",,,,,,"Noci thermique : "
+,,,,,,,,,,"Tactile : "
+16H15,"-0.2 mm (?)",,"0.8 mm","Cellule D à 4400  µm",,,,,,
+,,,,"Fréq spont = 2.18 Hz ; ISI = 459 ± 252 ms",,,,,,"Point Bleu @ 4380 µm"
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON(FR)",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Noci thermique : ON(tt CR:50;FR:48-52) Neutral(44-46:FR)",,,,,,Collision
+,,,,"Injection à 3-4 nA pendant 15 sec",,,,,,
+,,,,"Perdue @ injection",,,,,,
+,,,,,,,,,,
+,,,,"Cellule E à 4600  µm",,,,,,
+,,,,"Fréq spont = 2.21 Hz ; ISI = 451 ± 207 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON(FL) light",,,,,,
+,,,,"Noci thermique : ON(tt CR:50;FL:50-52) Neutral(44-48:FL)",,,,,,
+,,,,"Injection à 3-4 nA pendant 2 min 40 sec",,,,,,
+,,,,"Fin injection à 17H45",,,,,,
+,,,,,,,,,,
+18H15,"-0.2 mm (?)",,"-0.8 mm",RAS,,,,,,
+,,,,,,,,,,
+18H45,"0.2 mm",,"-0.8 mm",RAS,,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 19H15",,,,,,

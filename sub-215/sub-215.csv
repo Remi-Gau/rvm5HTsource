@@ -1,0 +1,63 @@
+Date,2009/02/12,,"Rat #",215,"Reçu le ",2009/02/10,,,,
+,,,,,"Poids approx","300 g",,,,
+"Induction à",10H40,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 75",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Bregma)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+11H30,"5,0 mm",,"0,9 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 10 MΩ ; Ri = 20 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,
+,,,,"Cellule A à 9330 µm",,,,,,RAS
+,,,,"Fréquence spontanée = 11 Hz (burst)",,,,,,
+,,,,,,,,,,"Perfusion @ 17H45"
+,,,,"Cellule B à 9450 µm",,,,,,
+,,,,"Fréquence spontanée = 3,5 Hz (irr)",,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,,,,,,,"Re = ; Ri = MΩ"
+14H00,"4,8 mm",,"0,9 mm","Cellule C à 8900 µm",,,,,,
+,,,,"Fréquence spontanée = 20 Hz (irr)",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,,,,,,,
+,,,,"Cellule D à 9150 µm",,,,,,"Injection à nA pendant min"
+,,,,"Fréquence spontanée < 1 Hz (irr)",,,,,,"Fin injection à "
+,,,,,,,,,,
+,,,,"Cellule E à 9299 µm",,,,,,"Cellule à µm"
+,,,,"Fréquence spontanée = 3,5 Hz (irr)",,,,,,"Fréquence spontanée =  Hz"
+,,,,,,,,,,Réponse
+,,,,"Cellule F à 9299 µm",,,,,,"Noci mécanique : "
+,,,,"Fréquence spontanée = 7,5 Hz (irr)",,,,,,"Noci thermique : "
+,,,,,,,,,,"Tactile : "
+,,,,"Cellule G à 9800 µm",,,,,,
+,,,,"Fréquence spontanée = 2 Hz (irr)",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FR)",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Noci thermique : ON (50:RL/FL/RR)",,,,,,Collision
+,,,,"Noci thermique : Neutral (46:RL) ON(48/52:RL)",,,,,,
+,,,,"Tactile : Neutral",,,,,,
+,,,," ",,,,,,
+,,,,"Perdue @ injection",,,,,,-140
+,,,,,,,,,,
+16H10,"4,6 mm",,"0,9 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 14 MΩ ; Ri = 20 MΩ",,,,,,
+,,,,,,,,,,
+,,,,"Cellule H à 9650 µm",,,,,,
+,,,,"Fréquence spontanée = 4,5 Hz (irr)",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : OFF (FR)",,,,,,
+,,,,"Noci thermique : OFF (50:RL/FL/RR)",,,,,,
+,,,,"Noci thermique : Neutral (46:RL) OFF (48:FL)",,,,,,
+,,,,"Noci thermique : OFF (52:FL/RL/RR)",,,,,,
+,,,,"Tactile : Neutral",,,,,,
+,,,,,,,,,,
+,,,,"Injection à 2-3 nA pendant 2 min 30 sec",,,,,,
+,,,,"Fin injection à 16H55",,,,,,
+,,,,,,,,,,
+,,,,"Cellule perdue mais apparemment intacte",,,,,,
+,,,,,,,,,,
+17H30,"5,0 mm",,"0,9 mm (D)","Cellule I à 8730 µm",,,,,,
+,,,,"Fréquence spontanée << 1 Hz (très irr)",,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 17H55",,,,,,

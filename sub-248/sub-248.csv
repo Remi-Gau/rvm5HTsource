@@ -1,0 +1,62 @@
+Date,2009/06/03,,"Rat #",248,"Reçu le ",2009/05/26,,,,
+,,,,,"Poids approx","300-400 G",,,,
+"Induction à",11H15,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)"," ",,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 98",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+11H30,"0.0 mm",,"0.8 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 11-12 MΩ ; Ri = 15-19 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 4323 µm",,,,,,
+,,,,"Fréq spont = 46.48 Hz ; ISI = 22 ± 7 ms",,,,,,RAS
+,,,,,,,,,,
+,,,,"Cellule B à 4670 µm",,,,,,"Perfusion @ 17H45"
+,,,,"Fréq spont = 0.97 Hz ; ISI = 1030 ± 274 ms",,,,,,
+,,,,Réponse,,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Noci thermique : ON (50:RL/FL/RR)",,,,,,"Re = ; Ri = MΩ"
+,,,,,,,,,,
+,,,,"Cellule C à 4700 µm",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"Fréq spont = 19.53  Hz ; ISI = 51 ± 20 ms",,,,,,
+,,,,,,,,,,"Injection à nA pendant min"
+,,,,"Cellule D à 4280 µm",,,,,,"Fin injection à "
+,,,,"Fréq spont = 1.35  Hz ; ISI = 739 ± 648 ms",,,,,,
+,,,,Réponse,,,,,,"Cellule à µm"
+,,,,"Noci mécanique : ON (FR)",,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,"Noci thermique : ON (50:FR/FL/FL/RR/T;48/52:FR)",,,,,,Réponse
+,,,,"Noci thermique : Neutral (44/46:FR)",,,,,,"Noci mécanique : "
+,,,,"Injection à 4-6 nA pendant 20 sec",,,,,,"Noci thermique : "
+,,,,"Fin injection à 13H10",,,,,,"Tactile : "
+,,,,,,,,,,
+,,,,"Point Bleu @ 4550 µm",,,,,,"Point Bleu @ 4380 µm"
+,,,,,,,,,,
+14H50,"0.0 mm",,"-0.8 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Re = 9 MΩ ; Ri = 12 MΩ",,,,,,Collision
+,,,,,,,,,,
+,,,,"Cellule E à 4430 µm",,,,,,
+,,,,"Fréq spont = 13.22 Hz ; ISI = 62 ± 22 ms",,,,,,
+,,,,,,,,,,
+15H25,"-0.2 mm",,"-0.8 mm","Cellule F à 4430 µm",,,,,,
+,,,,"Fréq spont = 1.41 Hz ; ISI = 711 ± 2677 ms",,,,,,
+,,,,,,,,,,
+16H15,"0.2 mm",,"-0.8 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 10-11 MΩ ; Ri = 20-25 MΩ",,,,,,
+,,,,,,,,,,
+,,,,RAS,,,,,,
+,,,,,,,,,,
+16H50,"0.0 mm",,"-0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 11 MΩ ; Ri = 25-30 MΩ",,,,,,
+,,,,,,,,,,
+,,,,"Cellule G à 4950 µm",,,,,,
+,,,,"Fréq spont = 0.75 Hz ; ISI = 1324 ± 2983 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci thermique : Neutral (50:FL/RR/RL/FR)",,,,,,
+,,,,"Perdue @ injection",,,,,,
+,,,,,,,,,,
+,,,,"Point Bleu @ 4950 µm",,,,,,
+,,,,,,,,,,
+,,,,Postfixation,,,,,,

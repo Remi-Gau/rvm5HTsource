@@ -1,0 +1,48 @@
+Date,2009/10/22,,"Rat #",278,"Reçu le ",2009/10/13,,,,
+,,,,,"Poids approx",300,,,,
+"Induction à",11H05,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 119",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+11H45,"0.0 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 13 MΩ ; Ri = 19 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 4170 µm",,,,,,
+,,,,"Fréq spont = 4.6 Hz",,,,,,RAS
+,,,,,,,,,,
+12H30,"-0.2 mm",,"0.3 mm ?","* 1,5% neurobiotine ; 2% NaCl",,,,,,"Perfusion @ 17H45"
+,,,,"Re = 15.5 MΩ ; Ri = 20 MΩ",,,,,,
+,,,,,,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Cellule B à 4210 µm",,,,,,"Re = ; Ri = MΩ"
+,,,,"Fréq spont = 0.8 Hz ; ISI = 1244 ± 304 ms",,,,,,
+,,,,Réponse,,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"Noci mécanique : OFF (RL)",,,,,,
+,,,,"Noci thermique : OFF (tt CR:50;RL48-52) Neutral (RL:44-46)",,,,,,"Injection à nA pendant min"
+,,,,"Injection à 3-4 nA pendant 2 min",,,,,,"Fin injection à "
+,,,,"Fin injection à 15H30",,,,,,
+,,,,,,,,,,"Cellule à µm"
+,,,,"enregistré de quel côté ? Quel partie prendre pour ISI",,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,,,,,,,Réponse
+15H50,"0.2 mm",,"-0.3 mm","Cellule C à 4730 µm",,,,,,"Noci mécanique : "
+,,,,"Fréq spont =  Hz ; ISI = ± ms",,,,,,"Noci thermique : "
+,,,,Réponse,,,,,,"Tactile : "
+,,,,"Noci mécanique : ON (FR)",,,,,,
+,,,,"Noci thermique : ON (tt CR:50;52:FR) Neutral(46-48:FR)",,,,,,"Point Bleu @ 4380 µm"
+,,,,"Injection à 3-4 nA pendant 4 min 35 sec",,,,,,
+,,,,"Fin injection à 17H05",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,,,,,,,Collision
+17H15,"0.2 mm",,"0.8 mm","Cellule D à 4580 µm",,,,,,
+,,,,"Fréq spont = 1.4 Hz ; ISI = 716 ± 165 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : OFF (FL)",,,,,,
+,,,,"Noci thermique : OFF (tt CR:50;FL48-52) Neutral (FL:44-46)",,,,,,
+,,,,"injection curare @ T=930s",,,,,,
+,,,,"Injection à 3-4 nA pendant 3 min 30 sec",,,,,,
+,,,,"Fin injection à 18H05",,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 18H20",,,,,,

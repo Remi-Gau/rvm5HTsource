@@ -1,0 +1,48 @@
+Date,2009/10/19,,"Rat #",276,"Reçu le ",2009/10/13,,,,
+,,,,,"Poids approx",300,,,,
+"Induction à",11H20,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 117",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+11H55,"0.0 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 15 MΩ ; Ri = 1 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 4200 µm",,,,,,
+,,,,"Fréq spont = 7.3 Hz",,,,,,RAS
+,,,,,,,,,,
+,,,,"Cellule B à 5310 µm",,,,,,"Perfusion @ 17H45"
+,,,,"Fréq spont = 0.48 Hz ; ISI = 2105 ± 631 ms",,,,,,
+,,,,Réponse,,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Noci mécanique : OFF (RL)",,,,,,"Re = ; Ri = MΩ"
+,,,,"Noci thermique : OFF (tt CR:50;48->52:RL) Neutral (RL:44&46)",,,,,,
+,,,,"Injection à 2 nA pendant 3 min 43 sec",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"1 spk/swp",,,,,,
+,,,,"Injection à 3-4 nA pendant 0 min 45 sec",,,,,,"Injection à nA pendant min"
+,,,,"1-2 spk/swp",,,,,,"Fin injection à "
+,,,,"Fin injection à 13H05",,,,,,
+,,,,,,,,,,"Cellule à µm"
+13H20,"0.0 mm",,"-0.3 mm","Cellule C à 4810 µm",,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,"Fréq spont = 5 Hz",,,,,,Réponse
+,,,,,,,,,,"Noci mécanique : "
+13H53,"0.0 mm",,"-0.8 mm",RAS,,,,,,"Noci thermique : "
+,,,,,,,,,,"Tactile : "
+15H00,"-0.2 mm",,"-0.3 mm",RAS,,,,,,
+,,,,,,,,,,"Point Bleu @ 4380 µm"
+15H40,"0.2 mm",,"-0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 14 ; Ri = MΩ",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,,,,,,,Collision
+,,,,"Cellule D à 4570 µm",,,,,,
+,,,,"Fréq spont = 2.06 Hz ; ISI = 485 ± 274 ms",,,,,,
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FL)",,,,,,
+,,,,"Noci thermique : ON(tt CR:50;52:FL)Neutral(44-48:FL)",,,,,,
+,,,,"Injection à 3 nA pendant 30 sec",,,,,,
+,,,,"Perdue @ injection @ 16H10",,,,,,
+,,,,"perdue rapidement mais vérifier si injectée !!",,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 16H55",,,,,,

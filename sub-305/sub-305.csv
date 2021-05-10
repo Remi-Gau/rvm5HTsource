@@ -1,0 +1,51 @@
+Date,2009/12/17,,"Rat #",305,"Reçu le ",2009/12/08,,,,
+,,,,,"Poids approx",300,,,,
+"Induction à",11H00,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 137",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+12H10,"0.0 mm",,"0.2 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 22 MΩ ; Ri = 22 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 4730 µm",,,,,,
+,,,,"Fréq spont = 0.59 Hz ; ISI = 1704 ± 579 ms",,,,,,RAS
+,,,,Réponse,,,,,,
+,,,,"Noci thermique : ON",,,,,,"Perfusion @ 17H45"
+,,,,"Perdue AV injection",,,,,,
+,,,,,,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+14H15,"0.0 mm",,"-0.2 mm","Cellule B & C à 4620 µm",,,,,,"Re = ; Ri = MΩ"
+,,,,"Fréq spont = 1.25 Hz ; ISI = 800 ± 157 ms",,,,,,
+,,,,Réponse,,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"Noci mécanique : Neutral",,,,,,
+,,,,"Noci thermique : Neutral",,,,,,"Injection à nA pendant min"
+,,,,"Tactile : Neutral",,,,,,"Fin injection à "
+,,,,"Injection à 4-6 nA pendant 1 min 25 sec",,,,,,
+,,,,"Fin injection à 15H15",,,,,,"Cellule à µm"
+,,,,,,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,"Une deuxième cellule en fond : quantifiable mais non injectée !",,,,,,Réponse
+,,,,,,,,,,"Noci mécanique : "
+,,,,,,,,,,"Noci thermique : "
+16H05,"- 0.1 mm",,"0.2 mm","Cellule C à 4580 µm",,,,,,"Tactile : "
+,,,,"Fréq spont = 1.32 Hz ; ISI = 760 ± 364 ms",,,,,,
+,,,,Réponse,,,,,,"Point Bleu @ 4380 µm"
+,,,,"Noci mécanique : ON",,,,,,
+,,,,"Noci thermique : ON",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Tactile : neutral",,,,,,Collision
+,,,,"Perdue @ injection",,,,,,
+,,,,,,,,,,
+,,,,"Cellule D à 4565 µm",,,,,,
+,,,,"Fréq spont = 1.63 Hz ; ISI = 612 ± 289 ms",,,,,,
+,,,,"Noci mécanique : ON",,,,,,
+,,,,"Noci thermique : ON",,,,,,
+,,,,"Tactile : neutral",,,,,,
+,,,,"Injection à 6-8 nA pendant 3 min",,,,,,
+,,,,"Fin injection à 17H30",,,,,,
+,,,,,,,,,,
+,,,,"C & D probablement la même cellule",,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 17H45",,,,,,

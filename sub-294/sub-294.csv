@@ -1,0 +1,46 @@
+Date,2009/12/02,,"Rat #",294,"Reçu le ",2009/12/01,,,,
+,,,,,"Poids approx",280,,,,
+"Induction à",11H40,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 129",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+12H15,"0.0 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 22 MΩ ; Ri = 22 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 4440 µm",,,,,,
+"Tempéraure corpo = 33.2
+Room temp = 14°C",,,,"Fréq spont = 1.03 Hz ; ISI = 964 ± 300 ms",,,,,,RAS
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : OFF (FL)",,,,,,"Perfusion @ 17H45"
+,,,,"Noci thermique : OFF ",,,,,,
+,,,,"Tactile : Neutral",,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Injection à 6-8 nA pendant 30 sec",,,,,,"Re = ; Ri = MΩ"
+,,,,"Fin injection à 13H20",,,,,,
+,,,,,,,,,,"* 5% TMR ; 5-10% NaCl"
+14H40,"0.0 mm",,"-0.3 mm",,,,,,,
+"Tempéraure corpo = 35.5
+Room temp = 16°C",,,,"Cellule B à 4520 µm",,,,,,"Injection à nA pendant min"
+,,,,"Fréq spont = 4.93 Hz ; ISI = 202 ± 125 ms",,,,,,"Fin injection à "
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : OFF (RL)",,,,,,"Cellule à µm"
+,,,,"Noci thermique : OFF (RL)",,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,"Tactile : Neutral",,,,,,Réponse
+,,,,"Perdue @ injection",,,,,,"Noci mécanique : "
+,,,,,,,,,,"Noci thermique : "
+16H15,"0.2 mm",,"-0.3 mm","Cellule C à µm",,,,,,"Tactile : "
+,,,,"Fréq spont = 11.93  Hz ; ISI = 84 ± 150 ms",,,,,,
+,,,,Réponse,,,,,,"Point Bleu @ 4380 µm"
+,,,,"Noci mécanique : ON",,,,,,
+,,,,"Noci thermique : ON",,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Tactile : Neutral",,,,,,Collision
+,,,,"Perdue @ injection",,,,,,
+,,,,,,,,,,
+17H30,"-0.2 mm",,"-0.3 mm",RAS,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 18H00",,,,,,

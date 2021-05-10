@@ -1,0 +1,48 @@
+Date,2009/03/30,,"Rat #",231,"Reçu le ",2009/03/24,,,,
+,,,,,"Poids approx","300 g",,,,
+"Induction à",12H30,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,1750
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 82",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Bregma)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+13H00,"5.0 mm",,"0.8 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 11 MΩ ; Ri = 25 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 9400 µm",,,,,,
+,,,,"Fréquence spontanée = 20 Hz",,,,,,RAS
+,,,,,,,,,,
+15H00,"4.8 mm",,"0.8 mm","Quelques cellules",,,,,,"Perfusion @ 17H45"
+,,,,,,,,,,
+,,,,,,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+16H10,"4.6 mm",,"0.8 mm",RAS,,,,,,"Re = ; Ri = MΩ"
+,,,,,,,,,,
+,,,,,,,,,,"* 5% TMR ; 5-10% NaCl"
+16H40,"5.2 mm",,"0.8 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 15 MΩ ; Ri = 25 MΩ",,,,,,"Injection à nA pendant min"
+,,,,,,,,,,"Fin injection à "
+,,,,"Cellule C à 10 040 µm",,,,,,
+,,,,"Fréquence spontanée = 1,27 Hz ; ISI = 700±302 ms",,,,,,"Cellule à µm"
+,,,,Réponse,,,,,,"Fréquence spontanée =  Hz"
+,,,,"Noci mécanique : Neutral (FR)",,,,,,Réponse
+,,,,"Noci thermique : ON (50:RL)",,,,,,"Noci mécanique : "
+,,,,"Perdue AV injection (coupure courant)",,,,,,"Noci thermique : "
+,,,,,,,,,,"Tactile : "
+,,,,,,,,,,
+,,,,"Cellule D à 10 140 µm",,,,,,
+,,,,"Fréquence spontanée = 1,53 Hz ; ; ISI = 559±217 ms",,,,,,
+,,,,Réponse,,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Noci mécanique : ON (FR)",,,,,,Collision
+,,,,"Noci thermique : ON (50:RL/FL/RR) Neutral (46:RR)",,,,,,
+,,,,"Noci thermique : ON (52:RR) ON (48:RR)",,,,,,
+,,,,"Tactile : Neutral",,,,,,
+,,,,"Injection à 2-3 nA pendant 7 min 40 sec",,,,,,
+,,,,"Fin injection à 17H50",,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+18H05,"5.2 mm",,"0.8 mm (D)",RAS,,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 18H45",,,,,,

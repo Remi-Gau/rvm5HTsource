@@ -1,0 +1,45 @@
+Date,2009/03/26,,"Rat #",230,"Reçu le ",2009/03/24,,,,
+,,,,,"Poids approx","300 g",,,,
+"Induction à",12H00,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,1750
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 81",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Bregma)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+12H45,"5.0 mm",,"0.8 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,
+,,,,"Re = 11 MΩ ; Ri = 25 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 9760 µm",,,,,,
+,,,,"Fréquence spontanée = 0.75 Hz ; ISI = 1227±581 ms",,,,,,RAS
+,,,,Réponse,,,,,,
+,,,,"Noci mécanique : ON (FR) very light",,,,,,"Perfusion @ 17H45"
+,,,,"Noci thermique : ON (50/RL/FL/RR) ON (52:FL)",,,,,,
+,,,,"Noci thermique : ON (48:FL) Neutral (46:FL)",,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Perdue @ injection",,,,,,"Re = ; Ri = MΩ"
+,,,,,,,,,,
+15H30,"4.8 mm",,"0.8 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"Re = 10 MΩ ; Ri = 25 MΩ",,,,,,
+,,,,,,,,,,"Injection à nA pendant min"
+,,,,"Cellule B à 9735 µm",,,,,,"Fin injection à "
+,,,,"Fréquence spontanée = 1 Hz ; ISI = 989±188 ms",,,,,,
+,,,,Réponse,,,,,,"Cellule à µm"
+,,,,"Noci mécanique : OFF (FR)",,,,,,"Fréquence spontanée =  Hz"
+,,,,"Noci thermique : OFF (50:FL) Neutral (50:RL)",,,,,,Réponse
+,,,,"Noci thermique : OFF (50:RR) light",,,,,,"Noci mécanique : "
+,,,,"Noci thermique : OFF (52:FL/RR/RL) light",,,,,,"Noci thermique : "
+,,,,"Injection à 3.5 nA pendant 3 min 35 sec",,,,,,"Tactile : "
+,,,,"Fin injection à 16H05",,,,,,
+,,,,,,,,,,
+16H50,"4.8 mm",,"0.8 mm (D)",RAS,,,,,,
+,,,,,,,,,,Antidromique:elec:;lat:ms;seuil:µA
+17H10,"5.0 mm",,"0.8 mm (D)","* 1,5% neurobiotine ; 5% NaCl",,,,,,Collision
+,,,,"Re = 12 MΩ ; Ri = 25 MΩ",,,,,,
+,,,,,,,,,,
+,,,,RAS,,,,,,
+,,,,,,,,,,
+17H30,"5.2 mm",,"0.8 mm (D)",RAS,,,,,,
+,,,,,,,,,,
+,,,,"Perfusion @ 17H50",,,,,,

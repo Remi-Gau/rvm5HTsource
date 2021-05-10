@@ -1,0 +1,51 @@
+Date,2009/10/15,,"Rat #",275,"Reçu le ",2009/10/13,,,,
+,,,,,"Poids approx",300,,,,
+"Induction à",11H45,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,"B3 juxta 116",,,,,
+"Enregistrement : Halothane 0,7% dans N20/02 (1/1)",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Descentes,,,,,,,,,,"RAS (plancher @ 8700 µm ?)"
+,,,,,,,,,,
+Heure,"Postérieur (Obex)",,Latéralité,"Profondeur et commentaire",,,,,," tjs pas plancher @ 11 000 µm"
+12H15,"0.0 mm",,"0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 17 MΩ ; Ri = 17 MΩ",,,,,,"Perdue @ injection"
+,,,,,,,,,,"Perdue AV injection"
+,,,,"Cellule A à 4270 µm",,,,,,
+,,,,"Fréq spont = 3.31 Hz ; ISI = 302 ± 178 ms",,,,,,RAS
+,,,,,,,,,,
+13H05,"-0.2 mm",,"0.3 mm","Cellule B à 4930 µm",,,,,,"Perfusion @ 17H45"
+,,,,"Fréq spont = 2.83 Hz ; ISI = 354 ± 188 ms",,,,,,
+,,,,,,,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Cellule C à 5030 µm",,,,,,"Re = ; Ri = MΩ"
+,,,,"Fréq spont = 0.8 Hz ; ISI = 1246 ± 337 ms",,,,,,
+,,,,Réponse,,,,,,"* 5% TMR ; 5-10% NaCl"
+,,,,"Noci thermique : OFF (tt CR:50) ? (46: FL)",,,,,,
+,,,,"Perdue AV injection",,,,,,"Injection à nA pendant min"
+,,,,"TRES REGULIER",,,,,,"Fin injection à "
+,,,,,,,,,,
+,,,,"Cellule D à 5085 µm",,,,,,"Cellule à µm"
+,,,,"Fréq spont = 1.06 Hz ; ISI = 939 ± 485 ms",,,,,,"Fréq spont =  Hz ; ISI = ± ms"
+,,,,Réponse,,,,,,Réponse
+,,,,"Noci mécanique : ON (FR)",,,,,,"Noci mécanique : "
+,,,,"Noci thermique : ON (tt CR:50;48-52:FR) neutral (46:FR)",,,,,,"Noci thermique : "
+,,,,"Perdue @ injection",,,,,,"Tactile : "
+,,,,,,,,,,
+,,,,"Cellule E à 5250 µm",,,,,,"Point Bleu @ 4380 µm"
+,,,,"Fréq spont = 0.93 Hz ; ISI = 1069 ± 525 ms",,,,,,
+,,,,Réponse,,,,,,Antidromique:elec:;lat:ms;seuil:µA
+,,,,"Noci mécanique : ON (RR)",,,,,,Collision
+,,,,"Noci thermique : ON (tt CR:50;48-52:RR) neutral (46:RR)",,,,,,
+,,,,"Perdue @ injection",,,,,,
+,,,,,,,,,,
+,,,,"Point Bleu @ 5100 µm",,,,,,
+,,,,"pdt 40 min",,,,,,
+,,,,,,,,,,
+18H10,"0.1 mm",,"-0.3 mm","* 1,5% neurobiotine ; 2% NaCl",,,,,,
+,,,,"Re = 17 MΩ ; Ri = 17 MΩ",,,,,,
+,,,,,,,,,,
+,,,,RAS,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+18H50,"0.0 mm",,"-0.4 mm",RAS,,,,,,

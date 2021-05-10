@@ -1,0 +1,31 @@
+Date,2008/05/23,,"Rat #",113,"Reçu le ",2008/05/26,,,
+,,,,,"Poids approx","300 g",,,
+"Induction à",09H15,"; N2O/02 (2/1) --> Halothane 2%",,,,,,,
+"Post induction : atropine (0,75 mg/kg ; IP)",,,,,,,,,
+"Perfusion IP (0,8 ml/h) : Gallamine (20 mg/ml)",,,,,,,,,
+"Enregistrement : Halothane 0,8% dans N20/02 (1/1)",,,,,,,,,
+,,,,,,,,,
+Descentes,,,,,,,,,
+,,,,,,,,,
+Heure,"Postérieur (Bregma)",,Latéralité,"Profondeur et commentaire",,,,,
+10H20,"4,4 mm",,"1,3 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,"* 1,5% neurobiotine ; 5% NaCl"
+,,,,"Re = 20 MΩ ; Ri = 25 MΩ",,,,,"Re = ; Ri = "
+,,,,RAS,,,,,"Cellule à µm"
+11H00,"4,7 mm",,"1,1 mm","* 1,5% neurobiotine ; 5% NaCl",,,,,"Fréquence spontanée = Hz"
+,,,,"Re = 30 MΩ ; Ri = 40 MΩ",,,,,Réponse
+,,,,"Cellule A à 9570 µm",,,,,"Noci mécanique : "
+,,,,"Fréquence spontanée = 1-2 Hz ",,,,,"Noci thermique : "
+,,,,Variable,,,,,"Tactile : "
+,,,,Réponse,,,,,"Injection à nA pendant min"
+,,,,"Noci mécanique : OFF (T)",,,,,
+,,,,"Noci thermique : ? (FL)",,,,,
+,,,,"Tactile : ",,,,,
+,,,,"Cellule perdue",,,,,
+12H20,"5,0 mm",,"1,3 mm","Cellule B à 8770 µm",,,,,
+,,,,"Fréquence spontanée =  Hz ",,,,,
+,,,,Variable,,,,,
+,,,,Réponse,,,,,
+,,,,"Noci mécanique : ON (T)",,,,,
+,,,,"Noci thermique : ON (FL)",,,,,
+,,,,"Tactile : ",,,,,
+,,,,"Cellule non injectable (satur électro)",,,,,
