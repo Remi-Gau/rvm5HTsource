@@ -1,0 +1,19 @@
+{
+    "PixelSize": [
+        0.2,
+        0.3
+    ],
+    "FieldOfView": [
+        75,
+        80
+    ],
+    "AcquisitionParameters": "NA: 1.4",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "rostro ventro medial medulla",
+    "SamplePrimaryAntibody": "polyclonal rabbit anti-serotonin antibody, (Ref. PC228L, batch D21789-1; Calbiochem, La Jolla, CA, USA)",
+    "SampleSecondaryAntibody": "Alexa fluor 594 goat anti-rabbit antibody, (Invitrogen, Cergy Pontoise, France) to label serotonin, and streptavidin conjugated to Alexa fluor 488, (Invitrogen) to label neurobiotin",
+    "SampleStaining": "DAB",
+    "SliceThickness": "80",
+    "SampleFixation": "exvivo",
+    "SampleStainingDescription": "4% paraformaldehyde, 0.1% glutaraldehyde, 0.05% picric acid"
+}
