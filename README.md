@@ -34,6 +34,8 @@ excel aura comme format :
 
 # cells
 
+Use the sample entity to denote each recorded cell.
+
 Dans chaque expérience, chaque cellule enregistrée est dénotée par une lettre :
 
 - A pour la première,
@@ -47,11 +49,7 @@ Les fichiers spikes 2 d’enregistrements de données fonctionnent toujours par 
 
 # runs
 
-Si plusieurs enregistrements ont été faits pour une cellule donnée, ceux-ci sont
-dénotées par un chiffre :
-
-- A1 pour le premier enregistrement,
-- A2 pour le second…
+Different recordings of the same cell are denoted using the run entity.
 
 En général le premier enregistrement correspond à la caractérisation
 électrophysiologique du neurone et le deuxième à son injection juxtacellulaire
@@ -89,3 +87,20 @@ Dans les dossiers dédiés à chaque cellule, on trouve :
   « AC » sont l’autocorrélogramme de la cellule concernée.
 - Des fichiers `.psd` qui sont les photos plus ou moins retouchées du neurone en
   fluo ou en immunohistochimie (IHC) à différents grossissements.
+
+
+### stain
+
+Cells can have:
+- fluo: serotonergic staining (5HT)
+- fluo: neurobiotin staining (nb)
+- immunohistochemistry: dab nickel staining (dab)
+
+### chuncks
+
+Several images of the different injected neurons were taken are denoted using the chunck entity.
+
+The label denotes the lens magnification used on the microscope:
+- X4 --> 0400
+- X10 --> 1000
+- ...
